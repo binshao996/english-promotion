@@ -2674,13 +2674,13 @@
 - **义项 3: 进行 (phr.)** — 进行某个活动或过程
   - "The security team **carried out** a comprehensive audit of the system."
 
-### 300. carry out
-- **义项 1: 执行 (phr.)** — 执行某任务或计划
-  - "The team **carried out** the migration according to the plan."
-- **义项 2: 实施 (phr.)** — 落实某决定或方案
-  - "We **carried out** a thorough investigation of the incident."
-- **义项 3: 进行 (phr.)** — 进行某个活动或过程
-  - "The security team **carried out** a comprehensive audit of the system."
+### 300. expedite
+- **义项 1: 加速推进 (v.)** — 加快某过程或行动的速度
+  - "We **expedited** the security review to meet the release deadline."
+- **义项 2: 加快处理 (v.)** — 使某事物更快地完成
+  - "The support team **expedited** the fix after the client escalated the issue."
+- **义项 3: 促进 (v.)** — 使某过程更快发生或更容易
+  - "The new approval workflow **expedites** the deployment process."
 
 ---
 
