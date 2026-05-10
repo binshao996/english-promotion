@@ -6,64 +6,76 @@ Go from "can read docs but struggle to speak" to "communicate fluently in remote
 
 ## How to Use This Plan
 
-1. Read through the grammar explanation and sentence breakdowns
-2. Go over each vocabulary word and its example sentences
-3. Do the sentence-making exercises (write out sentences, then check against the answer)
-4. At the end of each week, review your mistakes and the "commonly confused" section
+1. Read through the grammar section: skim the basic point, then **focus on the complex sentence breakdowns** — these are where real learning happens
+2. Go over all 300 vocabulary words each week — each has 3 meanings + example sentences
+3. Do the sentence-making exercises and compare with the reference answers
+4. At the end of each week, complete the weekend review
 5. Speaking practice is on you — this plan handles vocabulary, grammar, and sentence output
 
 ## Learning Principles
 
-- **No rote memorization** — learn words through sentences and context
-- **Grammar through analysis** — understand sentence structure, not just rules
-- **Internet-industry focus** — all vocabulary and examples come from real dev/tech scenarios
+- **Complex sentences are the focus** — basic grammar is brief; most time is spent analyzing real, complex sentences from tech/work contexts, with full word-by-word syntax breakdowns
+- **300 words per week** — ~1,200 per month, ~7,200 total over 6 months; every word has 3 common meanings + example sentences
+- **Mixed domains** — vocabulary covers both internet/tech terms AND daily-life expressions, so you can talk about work AND life
+- **Grammar through analysis** — understand sentence structure by seeing it dissected, not by memorizing rules
 - **Review is built in** — each week's file includes a review section
 
 ## 6-Month Roadmap
 
-| Month | Grammar | Vocabulary Domain |
-|-------|---------|-------------------|
-| 1 | Basic sentence structure, simple tenses, continuous tenses | Daily development terms (verbs/nouns) |
-| 2 | Perfect tenses, perfect continuous, passive voice, modal verbs | Collaboration & communication |
-| 3 | Noun clauses, relative clauses, adverbial clauses | System design & architecture |
-| 4 | Conditionals, subjunctive mood, non-finite verbs | Product & data |
-| 5 | Inversion, emphasis, ellipsis, articles & prepositions | Business & interview |
-| 6 | Comprehensive review, long-sentence breakdown, common errors | Remote work scenario integration |
+| Month | Grammar Focus | Vocabulary Domain |
+|-------|--------------|-------------------|
+| 1 | Basic sentence structure + simple/continuous tenses + complex sentence breakdowns | Tech verbs/nouns + daily high-frequency words |
+| 2 | Perfect tenses, passive voice, modal verbs + complex sentence breakdowns | Collaboration & communication + daily conversation |
+| 3 | Noun clauses, relative clauses, adverbial clauses + complex sentence breakdowns | System design & architecture + daily life |
+| 4 | Conditionals, subjunctive mood, non-finite verbs + complex sentence breakdowns | Product & data + social topics |
+| 5 | Inversion, emphasis, articles & prepositions + complex sentence breakdowns | Business & interview + abstract expressions |
+| 6 | Advanced integration, long-sentence dissection, common error patterns | Remote work scenarios + cultural expressions |
+
+## Weekly File Structure
+
+```
+week-XX.md
+├── 1. Grammar
+│   ├── Basic point (brief, quick overview)
+│   └── 4-6 complex sentence breakdowns (focus) — each with full word-by-word syntax analysis
+├── 2. Vocabulary (300 words)
+│   └── Each word: 3 common meanings + 1 example sentence per meaning
+│   └── Mix of internet/tech terms + daily-life expressions
+├── 3. Sentence-Making Practice (10 prompts)
+└── 4. Weekend Review
+```
 
 ## Monthly Goals at a Glance
 
 ### Month 1 — Foundation
 - Master the 5 basic English sentence patterns
 - Correctly use simple present, past, future and continuous tenses
-- Acquire ~80 core dev verbs and nouns with their common usages
-- Be able to write a correct 10+ word sentence about your work
+- Analyze 16-24 complex sentences with full syntax breakdowns
+- Acquire ~1,200 words (mix of core dev terms + daily high-frequency words)
+- Be able to write correct, moderately complex sentences about your work
 
 ### Month 2 — Building
-- Understand and use perfect tenses (have done / had done)
-- Use passive voice appropriately in technical descriptions
-- Use modal verbs for polite requests and technical probability
-- Vocabulary: ~80 collaboration terms (meetings, code review, async communication)
+- Understand and use perfect tenses, passive voice, modal verbs
+- Analyze complex sentences involving these grammar points
+- Vocabulary: ~1,200 words (collaboration + daily conversation)
 
 ### Month 3 — Expanding
-- Master noun clauses (that, wh-, whether)
-- Master relative clauses (who, which, that — essential vs. non-essential)
-- Master adverbial clauses (time, cause, condition, concession)
-- Vocabulary: ~80 system design & architecture terms
+- Master noun clauses, relative clauses, adverbial clauses
+- Analyze complex multi-clause sentences
+- Vocabulary: ~1,200 words (system architecture + daily life)
 
 ### Month 4 — Deepening
-- Understand conditionals (zero, first, second, third)
-- Grasp subjunctive mood (wish, if only, would rather)
-- Use non-finite verbs correctly (gerund vs. infinitive, participle phrases)
-- Vocabulary: ~80 product & data terms
+- Understand conditionals, subjunctive mood, non-finite verbs
+- Analyze sophisticated sentences with multiple grammar layers
+- Vocabulary: ~1,200 words (product/data + social topics)
 
 ### Month 5 — Refining
-- Use inversion for emphasis in presentations
-- Apply emphasis (cleft sentences, do-emphasis)
-- Master articles (a/an/the) and prepositions in technical contexts
-- Vocabulary: ~80 business & interview terms
+- Master inversion, emphasis, articles & prepositions
+- Analyze presentation-style and formal writing sentences
+- Vocabulary: ~1,200 words (business/interview + abstract expressions)
 
 ### Month 6 — Mastering
-- Break down long, complex sentences confidently
+- Integrate all grammar, dissect long complex sentences independently
 - Self-correct common Chinese-speaker errors
-- Integrate all vocabulary domains into fluent output
+- Vocabulary: ~1,200 words (remote work + cultural)
 - Be interview-ready for remote work scenarios
